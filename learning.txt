@@ -1,0 +1,8 @@
+LEARNING POINTS IN CLASS - 09-17-2024
+
+
+How to initialize a Git repository.
+How to create and edit files using the command line.
+How to stage and commit changes using Git.
+How to link a local repository to a GitHub remote repository.
+How to push changes to GitHub.
