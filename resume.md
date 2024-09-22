@@ -24,7 +24,7 @@ Federal University of Technology Akure, Ondo, Nigeria
 
 ## Volunteering
 
-### **West Africa International Relations Manager, Partnership Development and Advocacy**  
+### **West Africa International Relations Manager, Partnership Development**  
 **AIESEC in FUTA**  
 *May 2022 – Oct 2022 (6 mos)*  
 - Managed relations between West Africa countries by developing strong communication structures to facilitate knowledge sharing and organizational growth.
@@ -32,16 +32,16 @@ Federal University of Technology Akure, Ondo, Nigeria
 ### **Web Designer**  
 **TED X FUTA**  
 *Nov 2021 – Feb 2022 (4 mos)*  
-- Contributed to the design of the TEKU SURA website and provided relevant feedback where necessary.
+- Contributed to the design of the TEDX FUTA website and provided relevant feedback where necessary.
 
 ---
 
 ## Work Experience
 
 ### **UI/UX Design Intern**  
-**Safe Padi – Internship**  
+**SpacePen – Internship**  
 *Oct 2022 – Dec 2022 (3 mos)*  
-Ramat, Nigeria  
+Remote, Nigeria  
 - Undertook a bootcamp training on user interface and experience design.
 - Applied skills gained from the training to work on a “Crowdfunding Project” and lead a design idea as part of a team project.
 
@@ -55,7 +55,7 @@ Ramat, Nigeria
 ### **Product Designer Intern**  
 **Spacepen Technologies – Internship**  
 *Aug 2022 – Nov 2022 (4 mos)*  
-Ramat, Nigeria  
+Remote, Nigeria  
 - Applied knowledge of Fintech and HealthTech design in collaboration with the design team.
 - Led a project team to design and expand knowledge of HealthTech solutions.
 - Assisted in designing an internal system.
@@ -70,7 +70,7 @@ Ramat, Nigeria
 ### **UI/UX Design Intern**  
 **Kastech Software Solutions Group – Contract**  
 *Oct 2022 – Dec 2022 (3 mos)*  
-Ramat, Nigeria  
+Remote, Nigeria  
 - Gained knowledge in cybersecurity by participating in all stages of the design process.
 - Applied cybersecurity-related insights to the design of various systems.
 
